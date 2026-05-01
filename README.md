@@ -231,13 +231,13 @@ Performs heart disease risk prediction based on patient medical data.
 
 json
 {
-  "Prediction": "Heart Disease Detected", 
+  "Prediction": "💚No Heart Disease", 
   
-  "Confidence": "85.32%",
+  "Confidence": "86.34%",
   
-  "Probability of Disease": "85.32%",
+  "Probability of Disease": "13.66%",
   
-  "Probability of No Disease": "14.68%"
+  "Probability of No Disease": "86.34%"
 }
 
 ### 👥 Contributing Guidelines
